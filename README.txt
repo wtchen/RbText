@@ -1,0 +1,1 @@
+To run, navigate to the root directory of main.rb in command line and run "ruby main.rb" without quotes.
